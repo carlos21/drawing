@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  x_pos: MyString
+  y_pos: MyString
+  drag_pos: MyString
+  drawing_id: 1
+
+two:
+  x_pos: MyString
+  y_pos: MyString
+  drag_pos: MyString
+  drawing_id: 1
